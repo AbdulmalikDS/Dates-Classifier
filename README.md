@@ -1,4 +1,4 @@
-DateVision is an end-to-end deep learning solution built using PyTorch for the Kaggle competition "Open Data Day 2025: Dates Types Classification." This project classifies images of date fruits into seven distinct categories:
+End-to-end deep learning solution built using PyTorch for the Kaggle competition "Open Data Day 2025: Dates Types Classification." This project classifies images of date fruits into seven distinct categories:
 
 Ajwa
 Medjool
